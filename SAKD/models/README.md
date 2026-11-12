@@ -13,7 +13,6 @@ To comply with GitHub's 100 MB file size limit, the heavy Teacher model (156.8 M
 | `semi_10pct_fusion.pth` | MultiScaleFusionHead | Phase 2 (10% Labeled) | ~2 MB | — | Included in repo |
 | `best_segformer_mit_b1_...` | SegFormer MiT-B1 (Teacher) | Fully Supervised | 156.8 MB | **0.8283** | [Download from Kaggle](#) |
 
-> **Note:** Replace the `[Download from Kaggle](#)` link above with the actual URL to your Kaggle Model or Google Drive where the Teacher model is hosted.
 
 ## Loading the Inference Model
 
